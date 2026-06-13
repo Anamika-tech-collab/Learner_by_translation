@@ -7,9 +7,9 @@
 
 
 ### Team Members
-- Member 1: Gopika S - RIT, Kottayam
-- Member 2:Devu Suresh -RIT, Kottayam
-- Member 3: Anamika S-RIT, Kottayam
+- Member 1: Anamika S-RIT, Kottayam
+- Member 2: Gopika S - RIT, Kottayam
+- Member 3:Devu Suresh -RIT, Kottayam
 
 ### Project Description
 Learnino is a fun language learning platform.This quiz is designed for beginners who want to test their language skills in a fun and interactive way.
